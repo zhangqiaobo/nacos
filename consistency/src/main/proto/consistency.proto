@@ -15,7 +15,7 @@
  */
 
 syntax = "proto3";
-
+//是用Protocol Buffers 插件提前将者两个文件编译一下
 option java_multiple_files = true;
 option java_package = "com.alibaba.nacos.consistency.entity";
 
